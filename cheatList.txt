@@ -1,7 +1,6 @@
 Git Cheat Sheet
 ---------------
 
-# Committing and Undoing
 
 
 ## Executing Commit
