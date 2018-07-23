@@ -3,15 +3,6 @@ Git Cheat Sheet
 
 # Committing and Undoing
 
-## Adding file for committing
-
-```
-$ git add <filename>
-```
-or
-```
-$ git add .
-```
 
 ## Executing Commit
 
